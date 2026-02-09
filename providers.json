@@ -1,0 +1,16 @@
+{
+  "providers": [
+    {
+      "telegramToken": "7091861211:AAHDmjyrNn7gsU_H1g8sCOqdryetggdEb0A",
+      "services": [
+        "taxi",
+        "applianceRepair"
+      ],
+      "notifications": true,
+      "id": "provider_1770680787884",
+      "name": "",
+      "telegramChatId": "1401302091",
+      "active": true
+    }
+  ]
+}
